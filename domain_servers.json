@@ -1,0 +1,27 @@
+{
+    "CN" : {
+        "ip": "10.0.0.1",
+        "controller": "CN-AD01.goodix.com",
+        "OU": "OU=OU=Computer-CN-PC,DC=goodix,DC=com"
+    },
+    "US" : {
+        "ip": "10.0.1.1",
+        "controller": "US-AD01.goodix.com",
+        "OU": "OU=OU=Computer-US,DC=goodix,DC=com"
+    },
+    "IN": {
+        "ip": "10.0.4.1",
+        "controller": "IN-AD01.goodix.com",
+        "OU": "OU=OU=Computer-IN-PC,DC=goodix,DC=com"
+    },
+    "KR": {
+        "ip": "10.0.2.1",
+        "controller": "KR-AD01.goodix.com",
+        "OU": "OU=OU=Computer-KR-PC,DC=goodix,DC=com"
+    },
+    "KR-t1": {
+        "ip": "10.0.3.1",
+        "controller": "KR-AD01.goodix.com",
+        "OU": "OU=OU=Computer-KR-T1-PC,DC=goodix,DC=com"
+    }
+}
