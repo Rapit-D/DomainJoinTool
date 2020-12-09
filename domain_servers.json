@@ -1,27 +1,62 @@
 {
-    "CN" : {
-        "ip": "10.0.0.1",
-        "controller": "CN-AD01.goodix.com",
-        "OU": "OU=OU=Computer-CN-PC,DC=goodix,DC=com"
+    "SZ" : {
+        "ip": "10.1.2.65",
+        "controller": "SZ-AD01.goodix.com",
+        "OU": "OU=OU=Computer-SZ-PC,DC=goodix,DC=com"
     },
-    "US" : {
-        "ip": "10.0.1.1",
-        "controller": "US-AD01.goodix.com",
-        "OU": "OU=OU=Computer-US,DC=goodix,DC=com"
+    "NL" : {
+        "ip": "10.1.24.133",
+        "controller": "NL-AD01.goodix.com",
+        "OU": "OU=OU=Computer-VAS,DC=goodix,DC=com"
     },
-    "IN": {
-        "ip": "10.0.4.1",
-        "controller": "IN-AD01.goodix.com",
-        "OU": "OU=OU=Computer-IN-PC,DC=goodix,DC=com"
+    "CD": {
+        "ip": "10.1.162.11",
+        "controller": "CD-AD01.goodix.com",
+        "OU": "OU=OU=Computer-CD-PC,DC=goodix,DC=com"
+    }, 
+    "TW": {
+        "ip": "10.1.6.103",
+        "controller": "TW-AD01.goodix.com",
+        "OU": "OU=OU=Computer-GTK-PC,DC=goodix,DC=com"
     },
     "KR": {
-        "ip": "10.0.2.1",
-        "controller": "KR-AD01.goodix.com",
-        "OU": "OU=OU=Computer-KR-PC,DC=goodix,DC=com"
+        "ip": "10.1.6.103",
+        "controller": "TW-AD01.goodix.com",
+        "OU": "OU=OU=Computer-SZ-PC,DC=goodix,DC=com"
     },
-    "KR-t1": {
-        "ip": "10.0.3.1",
-        "controller": "KR-AD01.goodix.com",
-        "OU": "OU=OU=Computer-KR-T1-PC,DC=goodix,DC=com"
+    "KR-vas": {
+        "ip": "10.1.6.103",
+        "controller": "TW-AD01.goodix.com",
+        "OU": "OU=OU=Computer-VAS,DC=goodix,DC=com"
+    },
+    "SH": {
+        "ip": "10.1.2.65",
+        "controller": "SZ-AD01.goodix.com",
+        "OU": "OU=OU=Computer-SH-PC,DC=goodix,DC=com"
+    }, 
+    "WH": {
+        "ip": "10.1.2.65",
+        "controller": "SZ-AD01.goodix.com",
+        "OU": "OU=OU=Computer-WH-PC,DC=goodix,DC=com"
+    },
+    "GR-Commsolid": {
+        "ip": "10.10.0.142",
+        "controller": "GER-AD02.goodix.com",
+        "OU": "OU=Computers,OU=Germany,OU=Goodix,DC=goodix,DC=com"
+    },
+    "US-Irvine": {
+        "ip": "10.1.131.12",
+        "controller": "US-AD01.goodix.com",
+        "OU": "OU=Computers,OU=US,OU=Goodix,DC=goodix,DC=com"
+    },
+    "US-Austin": {
+        "ip": "10.1.131.12",
+        "controller": "US-AD01.goodix.com",
+        "OU": "Computers,OU=Austin,OU=Goodix,DC=goodix,DC=com"
+    },
+    "Egypt": {
+        "ip": "10.16.0.2",
+        "controller": "EGY-AD01.goodix.com",
+        "OU": "OU=Computers,OU=Egypt,OU=Goodix,DC=goodix,DC=com"
     }
 }
